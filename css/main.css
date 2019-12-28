@@ -1902,7 +1902,7 @@ input::-moz-focus-inner {
 @media only screen and (max-width:1200px) {
   .header-logo img {
     width: 135px;
-    height: 15px;
+    height: auto;
   }
 
   .header-nav-wrap .header-main-nav {
@@ -1942,7 +1942,7 @@ input::-moz-focus-inner {
 
   .header-logo img {
     width: 130px;
-    height: 15px;
+    height: auto;
   }
 
   .header-nav-wrap {
@@ -2002,7 +2002,7 @@ input::-moz-focus-inner {
 
   .header-logo img {
     width: 125px;
-    height: 14px;
+    height: auto;
   }
 
   .header-nav-wrap {
@@ -2069,7 +2069,7 @@ input::-moz-focus-inner {
   content: "";
   width: calc(50% - 200px);
   height: 100vh;
-  background-image: url(../images/app-user.jpg);
+  background-image: url(https://images.unsplash.com/photo-1542353436-312f0e1f67ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60);
   background-origin: center top;
   background-repeat: no-repeat;
   background-size: cover;
