@@ -1699,7 +1699,7 @@ input::-moz-focus-inner {
 
 .header-logo img {
   width: 140px;
-  height: 16px;
+  height: auto;
 }
 
 /* ------------------------------------------------------------------- 
