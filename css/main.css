@@ -3482,7 +3482,7 @@ html.no-csstransitions .home-content__main {
 
 .footer__logo img {
   width: 135px;
-  height: 15px;
+  height: auto;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3676,7 +3676,7 @@ html.no-csstransitions .home-content__main {
 
   .footer__logo img {
     width: 130px;
-    height: 15px;
+    height: auto;
   }
 
   .footer__site-links {
