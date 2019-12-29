@@ -1495,9 +1495,10 @@ input::-moz-focus-inner {
  * ## section header
  * ------------------------------------------------------------------- */
 .section-header.has-bottom-sep {
-  padding-bottom: 2.8rem;
+  padding-bottom: 0px;
   position: relative;
   text-align: center;
+  margin-bottom: 35px;
 }
 
 .section-header.has-bottom-sep::before {
@@ -2068,7 +2069,7 @@ input::-moz-focus-inner {
   display: block;
   content: "";
   width: calc(50% - 200px);
-  height: 100vh;
+  height: 115vh;
   background-image: url(https://images.unsplash.com/uploads/1413395496082cbc91228/43e39040?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
   background-origin: center top;
   background-repeat: no-repeat;
